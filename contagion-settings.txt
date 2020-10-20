@@ -1,0 +1,12 @@
+contagion_start_day = 2
+contagion_period = 12
+low_r_period = 7
+high_r_period = 21
+low_r = 0.7
+high_r = 1.6
+include_post_low_r_surge = false
+peak_deaths = 24
+deaths_spread = 3
+deaths_scale_factor = 0.2
+
+ratio of lives saved = 8.195647321441722
