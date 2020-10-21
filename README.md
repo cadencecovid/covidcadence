@@ -55,7 +55,7 @@ The program supports the following parameters:
 | deaths_spread | ds | 3 | Number of days before and after peak deaths day over which patients die |
 | deaths_scale_factor | dsf | 0.05 | A fudge factor to get the cases and deaths displayable on the same graph |
 
-An eample of a longer command line is:
+An example of a longer command line is:
 
 ```
 contagion.rb  hr:1.6  cp:7
