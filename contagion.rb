@@ -45,7 +45,7 @@ def command_line_shortcuts
         'lr' => 'low_r',
         'hr' => 'high_r',
         'is' => 'include_surge',
-        'ps' => 'peak_deaths',
+        'pd' => 'peak_deaths',
         'ds' => 'deaths_spread',
         'dsf' => 'deaths_scale_factor'
     }
